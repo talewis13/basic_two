@@ -3,3 +3,15 @@ body {
   font-family: serif;
   text-align:center;
 }
+h1{
+    color: red;
+    background-color: blue;
+}
+p{
+    text-decoration: italic underline;
+    color: pink;
+    background-color: black;
+}
+h2{
+    font-family: "times new roman", sarif;
+}
